@@ -1,0 +1,10 @@
+# Ignore map tile cache
+tiles_cache/
+
+# Ignore Python cache & bytecode
+__pycache__/
+*.pyc
+
+# Ignore OS auto-generated files
+.DS_Store
+Thumbs.db
