@@ -1,38 +1,4 @@
-<details>
-  <summary><b>📸 Click to expand SkyGrid Screenshots Gallery</b></summary>
-  <br />
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com">
-          <img src="https://github.com" width="100%" alt="Global Radar Tracking" />
-        </a>
-        <p><sub><b>Global Radar Tracking Overview</b></sub></p>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com">
-          <img src="https://github.com" width="100%" alt="Flight Path & Telemetry Details" />
-        </a>
-        <p><sub><b>Flight Path & Telemetry Details</b></sub></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com">
-          <img src="https://github.com" width="100%" alt="Callsign Search Highlight" />
-        </a>
-        <p><sub><b>Callsign Search Highlight</b></sub></p>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com">
-          <img src="https://github.com" width="100%" alt="Regional Traffic Monitoring" />
-        </a>
-        <p><sub><b>Regional Traffic Monitoring</b></sub></p>
-      </td>
-    </tr>
-  </table>
-</details>
-
+<img width="1435" height="910" alt="Screenshot_20260923_212521" src="https://github.com/user-attachments/assets/a2a45349-8c78-462a-b16c-671367e6f74b" />
 
 # ✈️ SkyGrid — Live Flight Radar Engine
 
@@ -45,6 +11,9 @@ SkyGrid is a high-performance, real-time desktop flight tracking application bui
 - **Flight Trajectory Trails:** Fading historical path vectors.
 - **Interactive Search:** Liquid glass UI bar with target jumping.
 - **Telemetry HUD:** Live altitude, airspeed, climb rate, and registration data.
+
+<img width="1435" height="910" alt="Screenshot_20260923_212630-1" src="https://github.com/user-attachments/assets/49f403df-ce5b-4f7f-a1d3-fe4beab60453" />
+
 
 ## Quick Start
 1. Clone the repository:
